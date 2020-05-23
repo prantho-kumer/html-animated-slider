@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.carousel-item-cutom{
+height: 100vh !important;
+}
+
+.slide-1{
+    background-color: #b0c6f5;
+}
+.slide-2{
+    background-color: #f7f7f7
+}
+.slide-row{
+    margin: 12% 0;
+}
+.img-box{
+    max-width: 550px;
+    position: relative;
+}
+.pic-1{
+    width: 100%;
+ 
+}
+.pic-2{
+    width: 100px;
+    position: absolute;
+    left: 15px;
+    bottom: 20px;
+}
+.pic-3{
+    width: 75px;
+    position: absolute;
+    left: 150px;
+    bottom: 70px;
+}
+.pic-4{
+    width: 160px;
+    position: absolute;
+    right: 40px;
+    top: 110px;
+}
+.pic-5{
+    width: 110px;
+    position: absolute;
+    right: 20px;
+    bottom: 0px;
+}
+.pic-6{
+    width: 160px;
+    position: absolute;
+    right: 160px;
+    bottom: 35px;
+}
+.slide-content-1 h1{
+    margin-top: 40px;
+    font-weight: 700;
+    color: #ffffff;
+    text-transform: uppercase;
+
+}
+.slide-content-1 p{
+    margin: 30px 0 50px;
+    font-size: 16px;
+    color: #ffffff;
+}
+.slide-content-1 button{
+    color: #fff;
+    padding: 8px 20px;
+    background: #0c5ce3;
+    font-size: 16px;
+    border-radius: 25px;
+}
+.slide-content-2 h1, .slide-content-2 p{
+    margin-top: 40px;
+    font-weight: 700;
+    color: #ffa500;
+    text-transform: uppercase;
+
+}
+
+.slide-content-2 button{
+    color: #ffffff;
+    background-image: linear-gradient(to right, #feb154, #ffd255);
+    border-radius: 25px;
+
+}
+.slide-content-2 button:hover{
+
+}
+.slider-image-2{
+    width: 100%;
+}
+.img-2{
+    width: 200px;
+    position: absolute;
+    left: 0px;
+    bottom: 20px;
+}
+.img-3{
+    width: 80px;
+    position: absolute;
+    left: 225px;
+    bottom: 20px;
+}
+.img-4{
+    width: 70px;
+    position: absolute;
+    right: 245px;
+    top: 95px;
+}
+.img-5{
+    width: 100px;
+    position: absolute;
+    right: 50px;
+    bottom: 20px;
+}
